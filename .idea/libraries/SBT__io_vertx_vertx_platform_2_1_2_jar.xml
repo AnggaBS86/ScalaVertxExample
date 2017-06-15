@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.vertx:vertx-platform:2.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.vertx/vertx-platform/jars/vertx-platform-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.vertx/vertx-platform/srcs/vertx-platform-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
